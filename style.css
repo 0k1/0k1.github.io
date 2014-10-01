@@ -1,0 +1,41 @@
+.container{
+	padding: 20px;
+	height: auto;
+	width:1300px;
+	background-color:red;
+}
+.top{
+	height: 100px;
+	width: auto;
+	background-color: blue;
+}
+.topleft{
+	float: left;
+	width: auto;
+	height: 100px;
+	background-color: maroon;
+}
+.social{
+	height: 100px;
+	width: 400px;
+	float: right;
+	background-color: yellow;
+
+}
+.mid{
+width: auto;
+height: 600px;
+background-color: orange;
+}
+.midleft{
+
+}
+.midright{
+
+}
+.bottom{
+
+}
+.footer{
+
+}
