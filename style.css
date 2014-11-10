@@ -77,7 +77,8 @@
 
 body {
     text-align: center;
-    background-color: #8C6CAB;
+    background-image:url("http://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-95620.jpg");
+    background-size:cover;
     font-family: verdana;
 }
 
