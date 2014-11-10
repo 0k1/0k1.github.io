@@ -10,10 +10,12 @@
     transform: translateZ(0);
     box-shadow: 1px 1px 2px 0px rgba(82,21,82,1);
 }
-.description{
+.description {
     text-align: center;
     padding: 200 0;
-    text-decoration: underline;
+}
+.description h1{
+     text-decoration: underline;
 }
 .social ul li{
     display: inline;
