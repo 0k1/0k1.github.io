@@ -10,7 +10,9 @@
     transform: translateZ(0);
     box-shadow: 1px 1px 2px 0px rgba(82,21,82,1);
 }
-
+.social img{
+    background-color:black;
+}
     .hover-shadow:before {
         pointer-events: none;
         position: absolute;
