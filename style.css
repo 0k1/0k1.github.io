@@ -8,14 +8,25 @@
     transition-property: transform;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
-    box-shadow: 1px 1px 2px 0px rgba(82,21,82,1);
+    box-shadow: 1px 1px 2px 0px rgba(82,82,82,1);
 }
 .description {
     text-align: center;
-    padding: 200 0;
+    text-color:white;
+    float: center;
+padding: 200 0;
 }
 .description h1{
      text-size:15pt;
+}
+
+.description h3{
+     text-size:15pt;
+    box-shadow: 1px 1px 2px 0px rgba(82,82,82,1);
+    background: rgba(0, 0, 0, 0.3);
+    padding: 20px; 
+    color:white;
+    width: 500px;
 }
 .social ul li{
     display: inline;
