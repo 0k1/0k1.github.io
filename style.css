@@ -15,7 +15,7 @@
     padding: 200 0;
 }
 .description h1{
-     text-decoration: underline;
+     text-size:15pt;
 }
 .social ul li{
     display: inline;
@@ -40,7 +40,6 @@
         height: 10px;
         width: 100%;
         opacity: 0;
-        background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0) 80%);
         /* W3C */
         -webkit-transition-duration: 0.3s;
         transition-duration: 0.3s;
@@ -97,13 +96,12 @@ body {
 }
 
 .navbar li  {
-    padding: 50px;
-    background: rgba(135, 0, 0, 0.8);
-    border-radius: 60%;
-    border-color: transparent;
+    padding: 20px 50px;
+    background: rgba(0, 0, 0, 0.8);
     color: white;
     text-decoration: none;
-    text-align: center;
+      font-size: 11pt;
+  text-align: center;
     font-weight: bold;  
     margin: .4em;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
