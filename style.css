@@ -8,6 +8,21 @@
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
 }
+.image-cropper {
+   width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background: #eee no-repeat center;
+    background-size: cover;
+}
+#profileImage{
+      position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+       background-image: url("https://raw.githubusercontent.com/arun619/resumecard/gh-pages/assets/img/avatar.png");
+}
 .home {
     text-align: center;
     position: absolute;
